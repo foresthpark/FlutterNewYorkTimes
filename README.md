@@ -1,16 +1,16 @@
-# nytflutter
+# New York Times API Flutter App
 
-Simple UI Practice with the NYT API
+ **Simple UI Practice with the NYT API**
 
-## Getting Started
+# Clone GitHub Repo
+> git clone https://github.com/foresthpark/FlutterNewYorkTimes
 
-This project is a starting point for a Flutter application.
+# Create NYT API Key
+> [https://developer.nytimes.com/]()
 
-A few resources to get you started if this is your first Flutter project:
+1. Obtain API Key from NYT site above
+2. Create .env file in root of project
+> API_KEY="Your API Key goes here"
+3. Add above line to .env file
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
