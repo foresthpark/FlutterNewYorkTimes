@@ -41,7 +41,7 @@ class _MyAppState extends State<MyApp> {
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: Scaffold(
-        body:  ,
+        body: _pages[_currentIndex],
 //        body: _pages[_currentIndex],
         bottomNavigationBar: FFNavigationBar(
           theme: FFNavigationBarTheme(
