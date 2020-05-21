@@ -1,6 +1,10 @@
 # New York Times API Flutter App
-
+<p align="center">
  **Simple UI Practice with the NYT API**
+</p>
+<p align="center">
+<img src="https://i.imgur.com/lsxDZy2.gif"/>
+</p>
 
 # Clone GitHub Repo
 > git clone https://github.com/foresthpark/FlutterNewYorkTimes
